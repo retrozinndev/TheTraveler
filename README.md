@@ -5,6 +5,8 @@
 
 [![The Traveler Banner](src/main/resources/images/BannerGitHub.png)](https://gamejolt.com/games/ttraveler/796130)
 
+> ⚠️ Notice: moved to [notestudios/TheTraveler](https://github.com/notestudios/TheTraveler).
+
 This is **The Traveler** source code on GitHub! You can mod the game, [help optimizing](#-Contributing), create [new game levels](#-Contributing) and make **any** changes you want to it!
 Please, read the [License](#-License) section for more information of what you can do.
 
